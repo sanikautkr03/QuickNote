@@ -1,4 +1,4 @@
-# Simple Text Editor
+# Quick Note
 
 ## Overview
 **Simple Text Editor** is a basic console-based text editor written in C++. It allows users to create, open, edit, save, and display text files. The program provides an easy-to-use interface for managing plain text files with simple commands.
